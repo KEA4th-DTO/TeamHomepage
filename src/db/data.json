@@ -1,0 +1,74 @@
+{
+    "members": [
+      {
+        "id": "1",
+        "name": "신해철",
+        "role": "PM",
+        "email": "shc3113@gachon.ac.kr",
+        "git_id": "shc3113",
+        "mbti": "enfp",
+        "birth": "1999.08.20",
+        "hobby": "health",
+        "info": "hi",
+        "career": "BR Korea 18.01~19.02"
+      },
+      {
+        "id": "2",
+        "name": "이윤서",
+        "role": "Architect",
+        "email": "lys114@gachon.ac.kr",
+        "git_id": "lys114",
+        "mbti": "istj",
+        "birth": "2000.11.14",
+        "hobby": "basketball",
+        "info": "hi",
+        "career": ["Mammoth Coffee Barista 22.04~", "Waffle Univ 중퇴"]
+      },
+      {
+        "id": "3",
+        "name": "장민성",
+        "role": "Dev/Ops",
+        "email": "jmin314@gachon.ac.kr",
+        "git_id": "jmin314",
+        "mbti": "entp",
+        "birth": "2000.03.14",
+        "hobby": "home protect",
+        "info": "hi"
+      },
+      {
+        "id": "4",
+        "name": "김성호",
+        "role": "Dev/Ops",
+        "email": "opp13@gachon.ac.kr",
+        "git_id": "opp13",
+        "mbti": "?",
+        "birth": "2000.11.16",
+        "hobby": "Collecting 78 rpm plate",
+        "info": "hi",
+        "career": ["2-7 inf BN S6 202012 ~ 202106", "support making NIPR(unclassified army network) account & issuing CAC (for combined army/KATUSA)", "4-6 inf BN S6 202106 ~ 202202", "support making NIPR account & issuing CAC ", "support mail server account migration (mail.mil to army.mil)", "KATUSA’s Duty phone administration translation"]
+      },
+      {
+        "id": "5",
+        "name": "이정균",
+        "role": "AppDev",
+        "email": "wjdrbs786@gachon.ac.kr",
+        "git_id": "wjdrbs786",
+        "mbti": "infj",
+        "birth": "1998.10.20",
+        "hobby": "?",
+        "info": "hello",
+        "career": ["K-해커톤 우수상", "추계ACK 2023 우수논문상", "2023 가천인재상", "IrvineTechHub"]
+      },
+      {
+        "id": "6",
+        "name": "김이영",
+        "role": "AppDev",
+        "email": "lee20kim@gachon.ac.kr",
+        "git_id": "lee20kim",
+        "mbti": "isfp",
+        "birth": "2001.12.10",
+        "hobby": "baking",
+        "info": "hi"
+      }
+    ]
+  }

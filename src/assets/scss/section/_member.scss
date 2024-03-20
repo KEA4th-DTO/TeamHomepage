@@ -1,0 +1,54 @@
+#member {
+    color: #fff;
+    margin: 10%;
+  }
+  
+  .member__inner {
+    width: 100%;
+    padding: 16px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .member__title {
+    font-size: 2rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .member__content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px; /* 이미지와 정보 사이의 간격 조정 */
+    margin-top: 10%;
+  }
+  
+  .img {
+    width: 300px; /* 이미지 너비 조정 */
+    height: auto;
+    border-radius: 10px; /* 이미지 모서리 둥글게 */
+    margin-left: -15%;
+  }
+  
+  .member__desc {
+    max-width: 400px; /* 정보 블록 최대 너비 조정 */
+    margin-right: -10%;
+  }
+  
+  @media (max-width: 800px) {
+    .member__title {
+      font-size: 1.5rem;
+    }
+  
+    .img {
+      width: 200px; /* 모바일에서 이미지 크기 조정 */
+    }
+  }
+  
